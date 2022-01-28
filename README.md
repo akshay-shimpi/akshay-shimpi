@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay-shimpi
-- 👀 I’m interested in Android development, AI and Data Analytics
-- 🌱 I’m currently learning AI and Data Analytics on kaggle
+- 👀 I’m Working as a Android Developer, Python Developer
+- 🌱 I’m currently learning AI and Data Analytics on kaggle and RPA/Automation on automation anywhere community edition
 - 💞️ I’m looking to collaborate
 
 <!---
